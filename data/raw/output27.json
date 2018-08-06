@@ -1,0 +1,4097 @@
+[
+    {
+      "id": "17389",
+      "food_name": " Lamb, New Zealand, imported, loin, boneless, separable lean only, raw\n  \n     \n       ",
+      "food_group": "Lamb, Veal, and Game Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 74.54
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 120
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 21.5
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 3.77
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 4
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.55
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 26
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 217
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 368
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 60
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.1
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.072
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.162
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 6.356
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.176
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 1.12
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 6
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.33
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 1
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 1.187
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 0.923
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.272
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.057
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 66
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "17406",
+      "food_name": " Lamb, New Zealand, imported, loin chop, separable lean and fat, cooked, fast fried\n  \n     \n       ",
+      "food_group": "Lamb, Veal, and Game Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 50.12
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 332
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 21.5
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 27.11
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0.41
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 31
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.62
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 22
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 194
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 313
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 73
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.86
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.18
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 5.229
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.153
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 1.52
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 19
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 63
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.54
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 3
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 11.272
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 7.35
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 1.02
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 1.437
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 81
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "17076",
+      "food_name": " Lamb, New Zealand, imported, loin chop, separable lean and fat, raw\n  \n     \n       ",
+      "food_group": "Lamb, Veal, and Game Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 56.89
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 298
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 15.4
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 26.19
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0.22
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 14
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.24
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 18
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 149
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 262
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 63
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.08
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.111
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.12
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 4.152
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.125
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 1.47
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 16
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 54
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.47
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 3
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 11.161
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 7.465
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.967
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 1.35
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 69
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "17398",
+      "food_name": " Lamb, New Zealand, imported, loin chop, separable lean only, cooked, fast fried\n  \n     \n       ",
+      "food_group": "Lamb, Veal, and Game Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 60.21
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 208
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 27.43
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 10.7
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0.41
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 42
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.88
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 27
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 233
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 367
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 84
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 3.48
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.097
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.222
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 6.651
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.189
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 1.84
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 6
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 20
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.37
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 4.039
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 2.745
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.539
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.375
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 85
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "17078",
+      "food_name": " Lamb, New Zealand, imported, loin chop, separable lean only, raw\n  \n     \n       ",
+      "food_group": "Lamb, Veal, and Game Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 71.4
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 142
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 19.98
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 6.88
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 18
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.52
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 23
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 189
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 327
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 77
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.69
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.119
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.154
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 5.397
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.16
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 1.9
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 16
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.22
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 2.764
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 2.009
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.416
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.249
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 66
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "17407",
+      "food_name": " Lamb, New Zealand, imported, loin saddle, separable lean and fat, cooked, fast roasted\n  \n     \n       ",
+      "food_group": "Lamb, Veal, and Game Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 58.22
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 274
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 21.13
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 20.98
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 7
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.44
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 21
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 179
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 306
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 69
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.61
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.116
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.187
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 5.334
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.173
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 1.42
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 16
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 52
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.44
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 8.762
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 5.721
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.805
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 1.146
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 76
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "17408",
+      "food_name": " Lamb, New Zealand, imported, loin saddle, separable lean and fat, raw\n  \n     \n       ",
+      "food_group": "Lamb, Veal, and Game Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 60.04
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 273
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 16.56
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 22.9
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0.2
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 6
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.29
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 19
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 156
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 290
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 63
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.04
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.111
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.11
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 4.676
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.14
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.95
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 15
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 49
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.44
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 9.639
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 6.522
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.858
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 1.205
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 69
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "17386",
+      "food_name": " Lamb, New Zealand, imported, loin saddle, separable lean only, cooked, fast roasted\n  \n     \n       ",
+      "food_group": "Lamb, Veal, and Game Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 68.3
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 162
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 25.53
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 6.7
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 8
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.6
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 24
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 205
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 345
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 76
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 3.01
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.119
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.221
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 6.436
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.206
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 1.63
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 16
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.28
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 1
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 2.514
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 1.754
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.378
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.25
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 78
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "17387",
+      "food_name": " Lamb, New Zealand, imported, loin saddle, separable lean only, raw\n  \n     \n       ",
+      "food_group": "Lamb, Veal, and Game Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 73.5
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 131
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 20.86
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 5.32
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 7
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.54
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 24
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 193
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 356
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 75
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.54
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.118
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.136
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 5.918
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.175
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 1.13
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 4
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 15
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.22
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 1
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 1.96
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 1.549
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.351
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.217
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 66
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "17411",
+      "food_name": " Lamb, New Zealand, imported, neck chops, separable lean and fat, cooked, braised\n  \n     \n       ",
+      "food_group": "Lamb, Veal, and Game Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 51.28
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 307
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 28.53
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 21.43
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0.03
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 52
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 2.14
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 21
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 183
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 276
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 91
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 5.21
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.036
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.134
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 3.855
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.075
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 1.85
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 13
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 42
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.62
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 8.74
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 5.916
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.853
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.948
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 116
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "17412",
+      "food_name": " Lamb, New Zealand, imported, neck chops, separable lean and fat, raw\n  \n     \n       ",
+      "food_group": "Lamb, Veal, and Game Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 64.7
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 231
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 17.43
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 17.9
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0.14
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 20
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.14
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 18
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 156
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 290
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 73
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 3.05
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.082
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.128
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 3.801
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.109
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 2.51
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 11
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 38
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.36
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 7.514
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 4.988
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.683
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.849
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 72
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "17393",
+      "food_name": " Lamb, New Zealand, imported, neck chops, separable lean only, cooked, braised\n  \n     \n       ",
+      "food_group": "Lamb, Veal, and Game Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 54.64
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 264
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 31.4
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 15.36
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 58
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 2.28
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 22
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 194
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 289
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 97
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 5.72
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.026
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.14
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 4.151
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.077
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 8
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 28
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.57
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 1
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 6.085
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 4.206
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.672
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.544
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 121
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "17392",
+      "food_name": " Lamb, New Zealand, imported, neck chops, separable lean only, raw\n  \n     \n       ",
+      "food_group": "Lamb, Veal, and Game Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 72.43
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 151
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 19.84
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 7.97
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 23
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.24
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 20
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 175
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 323
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 81
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 3.48
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.08
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.145
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 4.297
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.121
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 2.89
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 17
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.24
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 1
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 3.12
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 2.172
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.38
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.259
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 71
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "17413",
+      "food_name": " Lamb, New Zealand, imported, netted shoulder, rolled, boneless, separable lean and fat, cooked, slow roasted\n  \n     \n       ",
+      "food_group": "Lamb, Veal, and Game Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 56.45
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 287
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 21.45
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 22.33
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0.05
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 7
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.33
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 21
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 178
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 305
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 61
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 4.28
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.116
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.167
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 3.739
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.107
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 1.94
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 14
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 46
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.47
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 3
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 8.431
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 5.677
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.851
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 1.014
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 78
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "17414",
+      "food_name": " Lamb, New Zealand, imported, netted shoulder, rolled, boneless, separable lean and fat, raw\n  \n     \n       ",
+      "food_group": "Lamb, Veal, and Game Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 62.47
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 252
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 16.9
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 20.36
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0.2
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.05
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 18
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 150
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 280
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 58
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 3.16
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.128
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.12
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 4.352
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.098
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 1.98
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 13
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 44
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.37
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 3
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 8.211
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 5.48
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.764
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.951
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 61
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "17394",
+      "food_name": " Lamb, New Zealand, imported, netted shoulder, rolled, boneless, separable lean only, cooked, slow roasted\n  \n     \n       ",
+      "food_group": "Lamb, Veal, and Game Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 64.22
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 199
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 25.14
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 10.91
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 7
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.38
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 23
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 197
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 337
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 65
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.116
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.188
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 4.279
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.118
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 2.27
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 6
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 19
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.34
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 3.262
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 2.324
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.503
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.257
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 79
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "17395",
+      "food_name": " Lamb, New Zealand, imported, netted shoulder, rolled, boneless, separable lean only, raw\n  \n     \n       ",
+      "food_group": "Lamb, Veal, and Game Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 72.9
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 143
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 20.2
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 6.88
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.16
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 21
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 175
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 325
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 65
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 3.8
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.138
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.142
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 5.204
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.113
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 2.38
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 16
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.21
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 2.125
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 1.605
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.352
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.132
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 58
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "17419",
+      "food_name": " Lamb, New Zealand, imported, rack - fully frenched, separable lean and fat, cooked, fast roasted\n  \n     \n       ",
+      "food_group": "Lamb, Veal, and Game Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 64.76
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 195
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 23.56
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 11.2
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0.01
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 11
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.74
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 23
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 195
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 323
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 67
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.52
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.06
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.204
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 6.037
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.28
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 1.28
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 17
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.33
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 6
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 4.41
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 3.194
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.516
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.487
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 72
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "17420",
+      "food_name": " Lamb, New Zealand, imported, rack - fully frenched, separable lean and fat, raw\n  \n     \n       ",
+      "food_group": "Lamb, Veal, and Game Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 69.53
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 169
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 19.88
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 9.96
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0.05
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 8
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.36
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 22
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 186
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 324
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 62
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.17
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.062
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.172
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 5.024
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.237
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 1.03
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 7
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 23
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.35
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 4
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 4.305
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 3.012
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.46
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.517
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 62
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "17396",
+      "food_name": " Lamb, New Zealand, imported, rack - fully frenched, separable lean only, cooked, fast roasted\n  \n     \n       ",
+      "food_group": "Lamb, Veal, and Game Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 66.7
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 173
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 24.39
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 8.38
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 11
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.76
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 24
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 200
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 330
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 67
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.56
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.057
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.21
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 6.267
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.291
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 1.31
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 3
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 11
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.29
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 3.196
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 2.399
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.43
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.313
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 72
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "17397",
+      "food_name": " Lamb, New Zealand, imported, rack - fully frenched, separable lean only, raw\n  \n     \n       ",
+      "food_group": "Lamb, Veal, and Game Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 71.67
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 147
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 20.61
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 7.12
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 8
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.4
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 23
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 192
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 334
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 63
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.24
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.061
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.178
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 5.208
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.246
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 1.05
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 17
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.32
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 4
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 3.044
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 2.223
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.371
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.349
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 62
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "17081",
+      "food_name": " Lamb, New Zealand, imported, rack - partly frenched, separable lean and fat, cooked, fast roasted\n  \n     \n       ",
+      "food_group": "Lamb, Veal, and Game Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 59.66
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 253
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 22.06
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 18.29
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0.04
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 20
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.57
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 22
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 195
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 304
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 69
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.69
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.067
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.186
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 6.019
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.156
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 1.17
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 10
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 33
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.45
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 3.1
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 7.066
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 4.787
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.734
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.907
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 76
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "17080",
+      "food_name": " Lamb, New Zealand, imported, rack - partly frenched, separable lean and fat, raw\n  \n     \n       ",
+      "food_group": "Lamb, Veal, and Game Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 62.78
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 240
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 18.12
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 18.52
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0.13
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 10
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.3
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 20
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 165
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 277
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 61
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.34
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.084
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.167
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 5.032
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.159
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 1.12
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 11
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 37
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.4
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 7.229
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 4.904
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.719
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.89
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 66
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "17083",
+      "food_name": " Lamb, New Zealand, imported, rack - partly frenched, separable lean only, cooked, fast roasted\n  \n     \n       ",
+      "food_group": "Lamb, Veal, and Game Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 64.96
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 193
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 24.43
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 10.63
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 22
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.65
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 24
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 209
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 323
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 72
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.89
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.06
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.202
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 6.705
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.17
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 1.24
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 4
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 14
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.37
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 1
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 3.5
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 3.664
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 2.601
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.503
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.422
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 76
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "17082",
+      "food_name": " Lamb, New Zealand, imported, rack - partly frenched, separable lean only, raw\n  \n     \n       ",
+      "food_group": "Lamb, Veal, and Game Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 70.24
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 160
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 20.65
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 8.61
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 12
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.43
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 22
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 185
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 309
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 67
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.66
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.083
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.191
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 5.749
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.181
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 1.25
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 17
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.28
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 1
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 2.782
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 2.036
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.426
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.313
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 64
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    }
+  ]

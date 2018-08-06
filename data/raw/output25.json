@@ -1,0 +1,3867 @@
+[
+    {
+      "id": "09145",
+      "food_name": " Java-plum, (jambolan), raw\n  \n     \n       ",
+      "food_group": "Fruits and Fruit Juices",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 83.13
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 60
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 0.72
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 0.23
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 15.56
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 19
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.19
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 15
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 17
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 79
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 14
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 14.3
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.006
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.012
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 0.26
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.038
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 3
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "19300",
+      "food_name": " Jellies\n  \n     \n       ",
+      "food_group": "Sweets",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 29.77
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 266
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 0.15
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 0.02
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 69.95
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 1
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 51.22
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 7
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.19
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 6
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 6
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 54
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 30
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.03
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0.9
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.001
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.026
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 0.036
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.02
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0.3
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0.005
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 0.001
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.004
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "43027",
+      "food_name": " Jellies, no sugar (with sodium saccharin), any flavors\n  \n     \n       ",
+      "food_group": "Sweets",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 69.53
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 121
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 0.55
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 29.6
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 2.2
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 3.39
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 31
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.15
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 4
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 9
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 96
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 3
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.07
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.011
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.015
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 0.22
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.02
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 3
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 35
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 707
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.33
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 1.2
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "44110",
+      "food_name": " Jellies, reduced sugar, home preserved\n  \n     \n       ",
+      "food_group": "Sweets",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 53
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 179
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 0.3
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 0.03
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 46.1
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0.8
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 45.3
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.18
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 6
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 6
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 71
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.03
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.01
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.02
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 0.14
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.04
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 1
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 3
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0.2
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0.009
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 0.001
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.008
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "43497",
+      "food_name": " Jellyfish, dried, salted\n  \n     \n       ",
+      "food_group": "Finfish and Shellfish Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 68
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 36
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 5.5
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 1.4
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 2.27
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 20
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 3
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 9690
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.42
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.01
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.01
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 0.2
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.01
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 1
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.02
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 7
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.02
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0.273
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 0.202
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.475
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "11226",
+      "food_name": " Jerusalem-artichokes, raw\n  \n     \n       ",
+      "food_group": "Vegetables and Vegetable Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 78.01
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 73
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 0.01
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 17.44
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 1.6
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 9.6
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 14
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 3.4
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 17
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 78
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 429
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 4
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.12
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 4
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.2
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.06
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 1.3
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.077
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 13
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 1
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 20
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.19
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 0.004
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.001
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "11228",
+      "food_name": " Jew's ear, (pepeao), raw\n  \n     \n       ",
+      "food_group": "Vegetables and Vegetable Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 92.59
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 25
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 0.48
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 0.04
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 6.75
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 16
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.56
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 25
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 14
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 43
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 9
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.66
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0.6
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.081
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.204
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 0.07
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.088
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 19
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "32036",
+      "food_name": " JIMMY DEAN, Sausage, Egg, and Cheese Breakfast Biscuit, frozen, unprepared\n  \n     \n       ",
+      "food_group": "Meals, Entrees, and Side Dishes",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 44.06
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 328
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 9.29
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 22.9
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 21.07
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 3.1
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 137
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.84
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 15
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 302
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 292
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 589
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.94
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.245
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.32
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 2.183
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.123
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.64
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 8.595
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 8.539
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 3.881
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.177
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 85
+        }
+      ]
+    },
+    {
+      "id": "09443",
+      "food_name": " Juice, apple and grape blend, with added ascorbic acid\n  \n     \n         \n      \n       ",
+      "food_group": "Fruits and Fruit Juices",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 87.05
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 50
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 0.16
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 0.12
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 12.46
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0.2
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 10.92
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 11
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.11
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 7
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 9
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 96
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 7
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.05
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 28.2
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.006
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.015
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 0.087
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.021
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 4
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.01
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0.2
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0.023
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 0.005
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.032
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "09444",
+      "food_name": " Juice, apple, grape and pear blend, with added ascorbic acid and calcium\n  \n     \n       ",
+      "food_group": "Fruits and Fruit Juices",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 86.44
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 52
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 0.17
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 0.12
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 12.96
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0.2
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 9.95
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 72
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.14
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 6
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 11
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 89
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.06
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 50.7
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.005
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.015
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 0.094
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.018
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 1
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.01
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0.021
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 0.005
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.04
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "09147",
+      "food_name": " Jujube, Chinese, fresh, dried\n  \n     \n       ",
+      "food_group": "Fruits and Fruit Juices",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 20.19
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 281
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 4.72
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 0.5
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 72.52
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 6
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 63
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 5.09
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 68
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 217
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.39
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 217.6
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.047
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.053
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "09146",
+      "food_name": " Jujube, raw\n  \n     \n       ",
+      "food_group": "Fruits and Fruit Juices",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 77.86
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 79
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 1.2
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 0.2
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 20.23
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 21
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.48
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 10
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 23
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 250
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 3
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.05
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 69
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.02
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.04
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 0.9
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.081
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 40
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "11232",
+      "food_name": " Jute, potherb, cooked, boiled, drained, without salt\n  \n     \n       ",
+      "food_group": "Vegetables and Vegetable Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 87.15
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 37
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 3.68
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 0.2
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 7.29
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 1
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 211
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 3.14
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 62
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 72
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 550
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 11
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.79
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 33
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.091
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.192
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 0.89
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.57
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 104
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 259
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 5185
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.7
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 108
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0.03
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 0.014
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.096
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "11789",
+      "food_name": " Jute, potherb, cooked, boiled, drained, with salt\n  \n     \n       ",
+      "food_group": "Vegetables and Vegetable Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 87.15
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 37
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 3.68
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 0.2
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 7.29
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 1
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 211
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 3.14
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 62
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 72
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 550
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 247
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.79
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 33
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.091
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.192
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 0.89
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.57
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 104
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 259
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 5185
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.07
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 108
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0.03
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 0.014
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.096
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "11231",
+      "food_name": " Jute, potherb, raw\n  \n     \n       ",
+      "food_group": "Vegetables and Vegetable Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 87.72
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 34
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 4.65
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 0.25
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 5.8
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 208
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 4.76
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 64
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 83
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 559
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 8
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.79
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 37
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.133
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.546
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 1.26
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.6
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 123
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 278
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 5559
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0.038
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 0.017
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.12
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "11234",
+      "food_name": " Kale, cooked, boiled, drained, without salt\n  \n     \n       ",
+      "food_group": "Vegetables and Vegetable Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 89.82
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 36
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 2.94
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 1.21
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 5.3
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 4
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 1.21
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 150
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.84
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 25
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 42
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 144
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 16
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.27
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 17.8
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.063
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.14
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 0.457
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.063
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 65
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 146
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 2915
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 1.61
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 418.5
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0.175
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 0.102
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.66
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "11790",
+      "food_name": " Kale, cooked, boiled, drained, with salt\n  \n     \n       ",
+      "food_group": "Vegetables and Vegetable Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 89.82
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 44
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 2.94
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 1.21
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 5.3
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 2.3
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 1.21
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 150
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.84
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 25
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 42
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 144
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 252
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.27
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 17.8
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.063
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.14
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 0.457
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.063
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 65
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 146
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 2915
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 1.61
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 418.5
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0.156
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 0.091
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.589
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "11236",
+      "food_name": " Kale, frozen, cooked, boiled, drained, without salt\n  \n     \n       ",
+      "food_group": "Vegetables and Vegetable Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 89.82
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 36
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 2.94
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 1.21
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 5.3
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 2.3
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 1.21
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 150
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.84
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 25
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 42
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 144
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 16
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.27
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 17.8
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.063
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.14
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 0.457
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.063
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 65
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 146
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 2915
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 1.61
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 418.5
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0.158
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 0.092
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.597
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "11791",
+      "food_name": " Kale, frozen, cooked, boiled, drained, with salt\n  \n     \n       ",
+      "food_group": "Vegetables and Vegetable Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 89.82
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 36
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 2.94
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 1.21
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 5.3
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 2.3
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 1.21
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 150
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.84
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 25
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 42
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 144
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 252
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.27
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 17.8
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.063
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.14
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 0.457
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.063
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 65
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 146
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 2915
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 1.61
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 418.5
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0.158
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 0.092
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.597
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "11235",
+      "food_name": " Kale, frozen, unprepared\n  \n     \n       ",
+      "food_group": "Vegetables and Vegetable Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 91.12
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 28
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 2.66
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 0.46
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 4.88
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0.85
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 136
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.93
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 18
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 29
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 333
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 15
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.18
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 39.3
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.056
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.112
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 0.698
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.09
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 17
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 206
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 4120
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.57
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 333.6
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0.059
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 0.034
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.219
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "11233",
+      "food_name": " Kale, raw\n  \n     \n       ",
+      "food_group": "Vegetables and Vegetable Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 89.63
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 35
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 2.92
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 1.49
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 4.42
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 4.1
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0.99
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 254
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.6
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 33
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 55
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 348
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 53
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.39
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 93.4
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.113
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.347
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 1.18
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.147
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 62
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 241
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 4812
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.66
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 389.6
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0.178
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 0.104
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.673
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "11237",
+      "food_name": " Kanpyo, (dried gourd strips)\n  \n     \n       ",
+      "food_group": "Vegetables and Vegetable Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 19.97
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 258
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 8.58
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 0.56
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 65.03
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 9.8
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 280
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 5.12
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 125
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 188
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 1582
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 15
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 5.86
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0.2
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.044
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 2.9
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.532
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 61
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0.045
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 0.103
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.244
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "18608",
+      "food_name": " Keebler, Keebler Chocolate Graham SELECTS\n  \n     \n       ",
+      "food_group": "Baked Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 3.1
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 465
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 7.1
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 16.6
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 71.8
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 26.5
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 357
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 3.15
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 8.431
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 2.201
+        }
+      ]
+    },
+    {
+      "id": "01289",
+      "food_name": " Kefir, lowfat, plain, LIFEWAY\n  \n     \n       ",
+      "food_group": "Dairy and Egg Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 89.7
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 43
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 3.79
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 1.02
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 4.77
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 4.61
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 130
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.04
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 12
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 105
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 164
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 40
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.46
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0.2
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.03
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.135
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 0.15
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.058
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 13
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.29
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 171
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 569
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.02
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 41
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0.658
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 0.31
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.053
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.037
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "01290",
+      "food_name": " Kefir, lowfat, strawberry, LIFEWAY\n  \n     \n       ",
+      "food_group": "Dairy and Egg Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 84.82
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 62
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 3.39
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 0.9
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 10.2
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 9.21
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 119
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.04
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 11
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 96
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 154
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 37
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.44
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 1.5
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.03
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.21
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 0.105
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.06
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 22
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.31
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 178
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 599
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.06
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 1.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 44
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 1.2
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0.533
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 0.262
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.041
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.03
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    }
+  ]

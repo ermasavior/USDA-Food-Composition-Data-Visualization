@@ -1,0 +1,8102 @@
+[
+    {
+      "id": "07961",
+      "food_name": " Chicken breast, deli, rotisserie seasoned, sliced, prepackaged\n  \n     \n       ",
+      "food_group": "Sausages and Luncheon Meats",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 74.47
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 98
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 17.4
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 1.86
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 2.92
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0.75
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 11
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.39
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 26
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 257
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 360
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 1032
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.51
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.048
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.071
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 9.055
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.445
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 7
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.14
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 6
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.32
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0.564
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 0.74
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.452
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.007
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 51
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "07932",
+      "food_name": " Chicken breast, fat-free, mesquite flavor, sliced\n  \n     \n       ",
+      "food_group": "Sausages and Luncheon Meats",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 76.73
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 80
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 16.8
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 0.39
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 2.25
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0.2
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 4
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.3
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 36
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 256
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 316
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 1040
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.6
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.014
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.023
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 2.742
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.12
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 1
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.07
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0.13
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 0.16
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.06
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 36
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "07933",
+      "food_name": " Chicken breast, oven-roasted, fat-free, sliced\n  \n     \n       ",
+      "food_group": "Sausages and Luncheon Meats",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 76.71
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 79
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 16.79
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 0.39
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 2.17
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 6
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.32
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 9
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 60
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 67
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 1087
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.3
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.018
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.029
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 3.428
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.15
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 1
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.09
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0.13
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 0.121
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.073
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 36
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "07935",
+      "food_name": " Chicken breast, roll, oven-roasted\n  \n     \n       ",
+      "food_group": "Sausages and Luncheon Meats",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 72.98
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 134
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 14.59
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 7.65
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 1.79
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0.43
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 6
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.32
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 17
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 121
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 324
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 883
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.65
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.043
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.062
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 6.536
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.298
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 3
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.24
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.07
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0.5
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 2.48
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 2.816
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 1.456
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 39
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05326",
+      "food_name": " Chicken breast tenders, breaded, cooked, microwaved\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 51.34
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 252
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 16.35
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 12.89
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 17.56
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 14
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 26
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 216
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 225
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 446
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.77
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.324
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.098
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 6.514
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.037
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 12
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.44
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.37
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 4.2
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 3.2
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 5.71
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 2.79
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 45
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05327",
+      "food_name": " Chicken breast tenders, breaded, uncooked\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 52.74
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 263
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 14.73
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 15.75
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 15.01
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 1.1
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0.37
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 19
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.11
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 23
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 211
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 214
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 536
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.78
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0.8
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.211
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.091
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 5.71
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.041
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 12
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.27
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.08
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.2
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 9
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 14.7
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 3.26
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 6.48
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 3.34
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 41
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05746",
+      "food_name": " Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, braised\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 65.32
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 157
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 32.06
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 3.24
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 6
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.49
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 32
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 241
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 343
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 47
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.96
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.098
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.187
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 9.45
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.921
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.2
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 10
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 33
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.33
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 1
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 4.3
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 1.01
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 1.275
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.791
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.013
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 116
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05747",
+      "food_name": " Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, grilled\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 66.14
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 151
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 30.54
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 3.17
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.45
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 34
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 258
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 391
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 52
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.9
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.107
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.213
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 12.133
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 1.157
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.21
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 10
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 32
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.54
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 1
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0.992
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 1.212
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.764
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.01
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 104
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05062",
+      "food_name": " Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 73.9
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 120
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 22.5
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 2.62
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.37
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 28
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 213
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 334
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 45
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.68
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.094
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.177
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 9.6
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.811
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 9
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.21
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 9
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 30
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.56
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 1
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0.563
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 0.689
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.424
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.007
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 73
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05748",
+      "food_name": " Chicken, broiler or fryers, breast, skinless, boneless, meat only, with added solution, cooked, braised\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 68.05
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 145
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 28.24
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 3.61
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.43
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 28
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 217
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 313
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 172
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.8
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.075
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.167
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 9.173
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.962
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.17
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 9
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 31
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.42
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 1
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 1.193
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 1.576
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.793
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.014
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 99
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05749",
+      "food_name": " Chicken, broiler or fryers, breast, skinless, boneless, meat only, with added solution, cooked, grilled\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 66.54
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 148
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 29.5
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 3.39
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 6
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.43
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 31
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 249
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 420
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 215
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.82
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.079
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.227
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 11.067
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.984
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.2
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 10
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 32
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.33
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 1
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 1.012
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 1.325
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.713
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.013
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 106
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05357",
+      "food_name": " Chicken, broiler, rotisserie, BBQ, back, meat and skin\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 59.41
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 251
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 20.29
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 18.86
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0.4
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0.4
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 33
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.83
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 19
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 217
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 254
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 509
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 1.51
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.065
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.185
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 5.621
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.153
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 7
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.6
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 24
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 79
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.26
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 4.953
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 7.895
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 2.507
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.103
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 118
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05693",
+      "food_name": " Chicken, broiler, rotisserie, BBQ, back meat only\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 62.96
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 212
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 21.85
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 13.87
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0.31
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0.31
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 33
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.82
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 18
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 212
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 263
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 563
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 1.74
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.069
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.181
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 5.175
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.121
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 7
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.61
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 15
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 51
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.24
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 3.613
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 5.885
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 2.044
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 117
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05358",
+      "food_name": " Chicken, broiler, rotisserie, BBQ, breast, meat and skin\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 65.19
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 175
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 26.37
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 7.67
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0.09
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0.09
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 16
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.51
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 25
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 244
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 276
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 329
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.86
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.078
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.139
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 9.303
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.307
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 8
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.3
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 11
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 37
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.33
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 1.958
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 3.131
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.945
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.057
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 90
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05000",
+      "food_name": " Chicken, broiler, rotisserie, BBQ, breast, meat only\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 67.78
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 144
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 28.04
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 3.57
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 13
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.46
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 25
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 246
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 284
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 328
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.87
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.081
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.131
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 9.634
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.314
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 8
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.27
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 17
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.32
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0.863
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 1.444
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.49
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 86
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05359",
+      "food_name": " Chicken, broiler, rotisserie, BBQ, drumstick, meat and skin\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 61.42
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 206
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 25.65
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 11.46
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0.12
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0.12
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 22
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.02
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 23
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 245
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 279
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 392
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.52
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.063
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.224
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 5.966
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.196
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 9
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.49
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 17
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 56
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.51
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 2.855
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 4.75
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 1.523
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.072
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 149
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05319",
+      "food_name": " Chicken, broiler, rotisserie, BBQ, drumstick, meat only\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 64.11
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 172
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 27.71
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 6.76
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 20
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.05
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 23
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 248
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 291
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 403
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.86
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.065
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.229
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 5.745
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.184
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 9
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.47
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 10
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 33
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.54
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 1.573
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 2.827
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 1.029
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 155
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05356",
+      "food_name": " Chicken, broiler, rotisserie, BBQ, skin\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 47.81
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 378
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 15.19
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 35.15
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0.7
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0.7
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 34
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.86
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 22
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 230
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 223
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 335
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.76
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.054
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.199
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 7.082
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.259
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 9
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.55
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 51
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 171
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.33
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 9.333
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 14.464
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 4.018
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.438
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 120
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05361",
+      "food_name": " Chicken, broiler, rotisserie, BBQ, thigh, meat and skin\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 61.41
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 226
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 22.51
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 15.08
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0.12
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0.12
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 16
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.95
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 21
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 218
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 255
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 335
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 1.78
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.055
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.227
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 5.732
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.191
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 8
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.47
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 20
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 67
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.46
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 3.927
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 6.446
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 2.038
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.078
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 127
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05334",
+      "food_name": " Chicken, broiler, rotisserie, BBQ, thigh, meat only\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 64.35
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 193
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 24.09
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 10.74
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 13
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.97
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 21
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 216
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 262
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 335
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.055
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.234
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 5.441
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.176
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 8
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.45
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 13
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 44
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.48
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 2.777
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 4.727
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 1.621
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 128
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05362",
+      "food_name": " Chicken, broiler, rotisserie, BBQ, wing, meat and skin\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 57.23
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 257
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 23.42
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 18.04
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0.6
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0.6
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 33
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.93
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 23
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 251
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 285
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 579
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 1.57
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.078
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.161
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 7.454
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.212
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 8
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.45
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 26
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 87
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.12
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 4.627
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 7.332
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 2.177
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.164
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 129
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05339",
+      "food_name": " Chicken, broiler, rotisserie, BBQ, wing, meat only\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 62.87
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 186
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 28.34
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 7.79
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0.54
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0.53
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 32
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.97
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 24
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 264
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 322
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 725
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.05
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.092
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.138
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 7.676
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.184
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 7
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.39
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 11
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 37
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.37
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 2.134
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 3.61
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 1.266
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 134
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05049",
+      "food_name": " Chicken, broilers or fryers, back, meat and skin, cooked, fried, batter\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 44.51
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 331
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 21.97
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 21.91
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 10.25
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 26
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.49
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 19
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 137
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 180
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 317
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 1.96
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.119
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.213
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 5.837
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.23
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 28
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.26
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 36
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 119
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 5.83
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 8.91
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 5.2
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 88
+        }
+      ]
+    },
+    {
+      "id": "05050",
+      "food_name": " Chicken, broilers or fryers, back, meat and skin, cooked, fried, flour\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 43.96
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 331
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 27.79
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 20.74
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 6.5
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 24
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.62
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 23
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 166
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 226
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 90
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.47
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.107
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.236
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 7.297
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.3
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 20
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.28
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 37
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 123
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 5.61
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 8.18
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 4.81
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 89
+        }
+      ]
+    },
+    {
+      "id": "05051",
+      "food_name": " Chicken, broilers or fryers, back, meat and skin, cooked, roasted\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 53.52
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 300
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 25.95
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 20.97
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 21
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.42
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 20
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 154
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 210
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 87
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.25
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.061
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.195
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 6.718
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.27
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 6
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.27
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 105
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 348
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.27
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 4.9
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 5.82
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 8.29
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 4.62
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 88
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05052",
+      "food_name": " Chicken, broilers or fryers, back, meat and skin, cooked, stewed\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 60.93
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 258
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 22.18
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 18.14
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 18
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.22
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 16
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 120
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 145
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 64
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 1.93
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.043
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.151
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 4.343
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.15
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.18
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 88
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 308
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.27
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 4.1
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 5.02
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 7.13
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 4
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 78
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05048",
+      "food_name": " Chicken, broilers or fryers, back, meat and skin, raw\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 58.1
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 319
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 14.05
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 28.74
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 13
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.94
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 15
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 113
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 144
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 64
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 1.26
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 1.6
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.051
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.116
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 4.835
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.19
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 6
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.25
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 75
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 251
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.37
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 2.4
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 8.34
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 12.25
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 6.14
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 79
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05054",
+      "food_name": " Chicken, broilers or fryers, back, meat only, cooked, fried\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 47.87
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 288
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 29.99
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 15.32
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 5.68
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 26
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.65
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 25
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 176
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 251
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 99
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.8
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.109
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.253
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 7.68
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.35
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 9
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.31
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 29
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 98
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 4.12
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 5.73
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 3.64
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 93
+        }
+      ]
+    },
+    {
+      "id": "05055",
+      "food_name": " Chicken, broilers or fryers, back, meat only, cooked, roasted\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 58.75
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 239
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 28.19
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 13.16
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 24
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.39
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 22
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 165
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 237
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 96
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.65
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.068
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.217
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 7.069
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.34
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.3
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 2.4
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 3.6
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 4.83
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 3.05
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 90
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05056",
+      "food_name": " Chicken, broilers or fryers, back, meat only, cooked, stewed\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 64.33
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 209
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 25.31
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 11.19
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 21
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.27
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 17
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 130
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 158
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 67
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.38
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.047
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.173
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 4.556
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.2
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 7
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.21
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 27
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 90
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.27
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 2.4
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 3.04
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 4.02
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 2.62
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 85
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05053",
+      "food_name": " Chicken, broilers or fryers, back, meat only, raw\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 75.31
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 137
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 19.56
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 5.92
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 17
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.04
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 22
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 151
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 204
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 82
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 1.85
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.074
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.164
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 6.672
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.33
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 9
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.36
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 30
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 100
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.22
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 2.4
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 1.52
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 1.84
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 1.47
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 81
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05058",
+      "food_name": " Chicken, broilers or fryers, breast, meat and skin, cooked, fried, batter\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 51.64
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 260
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 24.84
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 13.2
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 8.99
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0.3
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 20
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.25
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 24
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 185
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 201
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 275
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.95
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.115
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.146
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 10.523
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.43
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 21
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.3
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 20
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 67
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 1.06
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 6
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 2.4
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 3.52
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 5.46
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 3.08
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 85
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05059",
+      "food_name": " Chicken, broilers or fryers, breast, meat and skin, cooked, fried, flour\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 56.59
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 222
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 31.84
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 8.87
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 1.64
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 16
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.19
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 30
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 233
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 259
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 76
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 1.1
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.082
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.131
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 13.742
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.58
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 7
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.34
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 15
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 50
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 2.45
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 3.5
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 1.96
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 89
+        }
+      ]
+    },
+    {
+      "id": "05060",
+      "food_name": " Chicken, broilers or fryers, breast, meat and skin, cooked, roasted\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 62.44
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 197
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 29.8
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 7.78
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 14
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.07
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 27
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 214
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 245
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 71
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 1.02
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.066
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.119
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 12.71
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.56
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 4
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.32
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 28
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 93
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.27
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0.3
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 2.19
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 3.03
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 1.66
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 84
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05061",
+      "food_name": " Chicken, broilers or fryers, breast, meat and skin, cooked, stewed\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 66.21
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 184
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 27.39
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 7.42
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 13
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.92
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 22
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 156
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 178
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 62
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.97
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.041
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.115
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 7.807
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.29
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 3
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.21
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 25
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 82
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.27
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0.2
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 2.08
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 2.9
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 1.58
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 75
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05057",
+      "food_name": " Chicken, broilers or fryers, breast, meat and skin, raw\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 69.46
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 172
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 20.85
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 9.25
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 11
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.74
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 25
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 174
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 220
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 63
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.8
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.063
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.085
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 9.908
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.53
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 4
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.34
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 24
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 83
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.27
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.4
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 16
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 2.66
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 3.82
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 1.96
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.105
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 64
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05063",
+      "food_name": " Chicken, broilers or fryers, breast, meat only, cooked, fried\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 60.21
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 187
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 33.44
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 4.71
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0.51
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 16
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.14
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 31
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 246
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 276
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 79
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 1.08
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.079
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.125
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 14.782
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.64
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 4
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.37
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 7
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 23
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.42
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 2.4
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 1.29
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 1.72
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 1.07
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 91
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05064",
+      "food_name": " Chicken, broilers or fryers, breast, meat only, cooked, roasted\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 65.26
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 165
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 31.02
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 3.57
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 15
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.04
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 29
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 228
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 256
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 74
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 1
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.07
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.114
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 13.712
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.6
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 4
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.34
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 6
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 21
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.27
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0.3
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 1.01
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 1.24
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.77
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 85
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05065",
+      "food_name": " Chicken, broilers or fryers, breast, meat only, cooked, stewed\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 68.27
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 151
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 28.98
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 3.03
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 13
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.88
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 24
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 165
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 187
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 63
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.97
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.042
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.119
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 8.469
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.33
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 3
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.23
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 6
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 19
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.27
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0.2
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0.85
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 1.03
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.66
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 77
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05314",
+      "food_name": " Chicken, broilers or fryers, breast, skinless, boneless, meat only, with added solution, raw\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 75.59
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 108
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 20.32
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 3
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.34
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 25
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 198
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 332
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 173
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 0.63
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.068
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.127
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 7.583
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.761
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 8
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.19
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 11
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 36
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.19
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0.545
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 0.673
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.384
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.006
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 64
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05676",
+      "food_name": " Chicken, broilers or fryers, dark meat, drumstick, meat and skin, cooked, braised\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 66.33
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 187
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 22.72
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 10.73
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 12
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.94
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 21
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 177
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 229
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 111
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.3
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.083
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.164
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 4.832
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.347
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 4
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.41
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 12
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 42
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.17
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0.3
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 2.939
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 4.493
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 2.232
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.055
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 132
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05671",
+      "food_name": " Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, braised\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 69.94
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 149
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 23.93
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 5.95
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 12
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.94
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 22
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 184
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 239
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 117
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.54
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.088
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.18
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 5.046
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.372
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 5
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.41
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 7
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 24
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.17
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0.1
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 2
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 0.2
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 1.601
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 2.375
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 1.28
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.03
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 132
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05073",
+      "food_name": " Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 69.93
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 155
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 24.24
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 5.7
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 11
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.14
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 22
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 200
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 256
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 128
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.56
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.098
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.222
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 5.598
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.407
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 4
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.38
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 6
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 21
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.18
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 1
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 3.5
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 1.505
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 2.181
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 1.202
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.03
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 130
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05071",
+      "food_name": " Chicken, broilers or fryers, dark meat, drumstick, meat only, raw\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 76.78
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 116
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 19.41
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 3.71
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 9
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.76
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 20
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 174
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 225
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 114
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.05
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.09
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.22
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 5.198
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.381
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 4
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.51
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 7
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 22
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.18
+        },
+        {
+          "nutrient_name": "Vitamin D ",
+          "unit": "µg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Vitamin D",
+          "unit": "IU",
+          "value": 1
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 2.9
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 0.949
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 1.33
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 0.854
+        },
+        {
+          "nutrient_name": "Fatty acids, total trans",
+          "unit": "g",
+          "value": 0.018
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 89
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05035",
+      "food_name": " Chicken, broilers or fryers, dark meat, meat and skin, cooked, fried, batter\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 48.82
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 298
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 21.85
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 18.64
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 9.38
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 21
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.44
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 20
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 145
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 185
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 295
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.08
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.117
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.218
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 5.607
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.25
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 24
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.27
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 31
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 103
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 4.95
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 7.58
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 4.43
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 89
+        }
+      ]
+    },
+    {
+      "id": "05036",
+      "food_name": " Chicken, broilers or fryers, dark meat, meat and skin, cooked, fried, flour\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 50.82
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 285
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 27.22
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 16.91
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 4.08
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 17
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.5
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 24
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 176
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 230
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 89
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.6
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.095
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.235
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 6.842
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.32
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 13
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.3
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 31
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 104
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 2.4
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 4.58
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 6.66
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 3.91
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 92
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05037",
+      "food_name": " Chicken, broilers or fryers, dark meat, meat and skin, cooked, roasted\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 58.63
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 253
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 25.97
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 15.78
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 15
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.36
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 22
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 168
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 220
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 87
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.49
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.066
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.207
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 6.359
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.31
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 7
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.29
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 60
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 201
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 4.37
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 6.19
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 3.49
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 91
+        }
+      ]
+    },
+    {
+      "id": "05038",
+      "food_name": " Chicken, broilers or fryers, dark meat, meat and skin, cooked, stewed\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 62.99
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 233
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 23.5
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 14.66
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 14
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.31
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 18
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 133
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 166
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 70
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.26
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.05
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.177
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 4.513
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.17
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 6
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.2
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 56
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 186
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 4.06
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 5.75
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 3.24
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 82
+        }
+      ]
+    },
+    {
+      "id": "05034",
+      "food_name": " Chicken, broilers or fryers, dark meat, meat and skin, raw\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 65.42
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 237
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 16.69
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 18.34
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Sugars, total",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 11
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 0.98
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 19
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 136
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 178
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 73
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 1.58
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.061
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.146
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 5.211
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.25
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 7
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.29
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 49
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 163
+        },
+        {
+          "nutrient_name": "Vitamin E ",
+          "unit": "mg",
+          "value": 0.3
+        },
+        {
+          "nutrient_name": "Vitamin K ",
+          "unit": "µg",
+          "value": 2.4
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 5.26
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 7.65
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 3.96
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 81
+        },
+        {
+          "nutrient_name": "Caffeine",
+          "unit": "mg",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "id": "05044",
+      "food_name": " Chicken, broilers or fryers, dark meat, meat only, cooked, fried\n  \n     \n       ",
+      "food_group": "Poultry Products",
+      "upc": "",
+      "nutrients": [
+        {
+          "nutrient_name": "Water",
+          "unit": "g",
+          "value": 55.7
+        },
+        {
+          "nutrient_name": "Energy",
+          "unit": "kcal",
+          "value": 239
+        },
+        {
+          "nutrient_name": "Protein",
+          "unit": "g",
+          "value": 28.99
+        },
+        {
+          "nutrient_name": "Total lipid ",
+          "unit": "g",
+          "value": 11.62
+        },
+        {
+          "nutrient_name": "Carbohydrate, by difference",
+          "unit": "g",
+          "value": 2.59
+        },
+        {
+          "nutrient_name": "Fiber, total dietary",
+          "unit": "g",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Calcium, Ca",
+          "unit": "mg",
+          "value": 18
+        },
+        {
+          "nutrient_name": "Iron, Fe",
+          "unit": "mg",
+          "value": 1.49
+        },
+        {
+          "nutrient_name": "Magnesium, Mg",
+          "unit": "mg",
+          "value": 25
+        },
+        {
+          "nutrient_name": "Phosphorus, P",
+          "unit": "mg",
+          "value": 187
+        },
+        {
+          "nutrient_name": "Potassium, K",
+          "unit": "mg",
+          "value": 253
+        },
+        {
+          "nutrient_name": "Sodium, Na",
+          "unit": "mg",
+          "value": 97
+        },
+        {
+          "nutrient_name": "Zinc, Zn",
+          "unit": "mg",
+          "value": 2.91
+        },
+        {
+          "nutrient_name": "Vitamin C, total ascorbic acid",
+          "unit": "mg",
+          "value": 0
+        },
+        {
+          "nutrient_name": "Thiamin",
+          "unit": "mg",
+          "value": 0.093
+        },
+        {
+          "nutrient_name": "Riboflavin",
+          "unit": "mg",
+          "value": 0.249
+        },
+        {
+          "nutrient_name": "Niacin",
+          "unit": "mg",
+          "value": 7.07
+        },
+        {
+          "nutrient_name": "Vitamin B-6",
+          "unit": "mg",
+          "value": 0.37
+        },
+        {
+          "nutrient_name": "Folate, DFE",
+          "unit": "µg",
+          "value": 9
+        },
+        {
+          "nutrient_name": "Vitamin B-12",
+          "unit": "µg",
+          "value": 0.33
+        },
+        {
+          "nutrient_name": "Vitamin A, RAE",
+          "unit": "µg",
+          "value": 24
+        },
+        {
+          "nutrient_name": "Vitamin A, IU",
+          "unit": "IU",
+          "value": 79
+        },
+        {
+          "nutrient_name": "Fatty acids, total saturated",
+          "unit": "g",
+          "value": 3.12
+        },
+        {
+          "nutrient_name": "Fatty acids, total monounsaturated",
+          "unit": "g",
+          "value": 4.32
+        },
+        {
+          "nutrient_name": "Fatty acids, total polyunsaturated",
+          "unit": "g",
+          "value": 2.77
+        },
+        {
+          "nutrient_name": "Cholesterol",
+          "unit": "mg",
+          "value": 96
+        }
+      ]
+    }
+  ]
