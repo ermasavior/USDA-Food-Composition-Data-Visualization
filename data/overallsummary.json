@@ -1,0 +1,106 @@
+{
+    "title": "USDA Food Composition",
+    "count_data": 2395,
+    "food_groups": [
+        {
+            "name": "Fruits and Fruit Juices",
+            "count": 183
+        },
+        {
+            "name": "Fast Foods",
+            "count": 128
+        },
+        {
+            "name": "Baked Products",
+            "count": 248
+        },
+        {
+            "name": "Vegetables and Vegetable Products",
+            "count": 357
+        },
+        {
+            "name": "Cereal Grains and Pasta",
+            "count": 92
+        },
+        {
+            "name": "American Indian/Alaska Native Foods",
+            "count": 58
+        },
+        {
+            "name": "Baby Foods",
+            "count": 27
+        },
+        {
+            "name": "Sausages and Luncheon Meats",
+            "count": 94
+        },
+        {
+            "name": "Sweets",
+            "count": 140
+        },
+        {
+            "name": "Meals, Entrees, and Side Dishes",
+            "count": 42
+        },
+        {
+            "name": "Spices and Herbs",
+            "count": 25
+        },
+        {
+            "name": "Legumes and Legume Products",
+            "count": 157
+        },
+        {
+            "name": "Beef Products",
+            "count": 68
+        },
+        {
+            "name": "Dairy and Egg Products",
+            "count": 201
+        },
+        {
+            "name": "Beverages",
+            "count": 188
+        },
+        {
+            "name": "Lamb, Veal, and Game Products",
+            "count": 40
+        },
+        {
+            "name": "Fats and Oils",
+            "count": 48
+        },
+        {
+            "name": "Restaurant Foods",
+            "count": 24
+        },
+        {
+            "name": "Breakfast Cereals",
+            "count": 20
+        },
+        {
+            "name": "Snacks",
+            "count": 58
+        },
+        {
+            "name": "Poultry Products",
+            "count": 79
+        },
+        {
+            "name": "Finfish and Shellfish Products",
+            "count": 59
+        },
+        {
+            "name": "Soups, Sauces, and Gravies",
+            "count": 17
+        },
+        {
+            "name": "Pork Products",
+            "count": 28
+        },
+        {
+            "name": "Nut and Seed Products",
+            "count": 14
+        }
+    ]
+}
