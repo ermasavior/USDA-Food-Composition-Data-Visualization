@@ -69,19 +69,54 @@ def toChart2(summary, dataset):
             series.append(category)
     return series
 
-def toChart3(dataset):
+def toChart3(summary, dataset):
     path = main.baseFilePath + 'categories.json'
     with open(path, 'r') as f:
         categories = json.load(f)
     
     categdata = []
-    nutrientdata = ['Carbohydrate, by difference', 'Protein', 'Total lipid (fat)', 'Sugars']
+    subcategdata = []
+    nutrientdata = ['Carbohydrate, by difference', 'Protein', 'Total lipid ', 'Sugars, total']
+    categnutrientdata = [[0, 0, 0, 0],
+                         [0, 0, 0, 0],
+                         [0, 0, 0, 0],
+                         [0, 0, 0, 0],
+                         [0, 0, 0, 0],
+                         [0, 0, 0, 0]]
     for cat in categories:
         categdata.append(cat['category'])
+        subcategdata.append(cat['subcategories'])
+    
+    numdata = [0, 0, 0, 0, 0, 0]
+    for group in summary['food_groups']:
+        for i in range(0, len(categdata)):
+            if group['name'] in subcategdata[i]:
+                numdata[i] += group['count']
+    print(numdata)
     
     for food in dataset:
-        if food['food_group']
+        for i in range(0, len(categdata)):
+            if food['food_group'] in subcategdata[i]:
+                for nutrient in food['nutrients']:
+                    if nutrient['nutrient_name'] in nutrientdata:
+                        j = nutrientdata.index(nutrient['nutrient_name'])
+                        categnutrientdata[i][j] += nutrient['value']
 
+    print(categnutrientdata)
+    for i in range(0, len(categnutrientdata)):
+        for j in range(0, len(nutrientdata)):
+            categnutrientdata[i][j] = categnutrientdata[i][j]/numdata[i]
+
+    series = []
+    for i in range(0, len(nutrientdata)):
+        seri = {}
+        seri['name'] = nutrientdata[i]
+        seri['data'] = []
+        for j in range(0, len(categnutrientdata)):
+            seri['data'].append(categnutrientdata[j][i])
+        series.append(seri)
+    
+    return [categdata, series]
 
 def getFoodGroupCount(summary, groupname):
     for group in summary['food_groups']:
@@ -137,6 +172,7 @@ if __name__ == '__main__':
     # toChart1(summary)
     #series = toChart2(summary, dataset)
     #main.saveJSONObject("chartdata/chart2.json", series)
-    toChart4(dataset, summary)
+    #obj = toChart3(summary, dataset)
+    #main.saveJSONObject("chartdata/chart3.json", obj)
 
     
