@@ -2,10 +2,14 @@ import main
 import random
 import json
 
-def toChart1(summary):
+def getCategories():
     path = main.baseFilePath + 'categories.json'
     with open(path, 'r') as f:
         categories = json.load(f)
+    return categories
+
+def toChart1(summary):
+    categories = getCategories()
     
     series = [{}]
     drilldownseries = []
@@ -70,9 +74,7 @@ def toChart2(summary, dataset):
     return series
 
 def toChart3(summary, dataset):
-    path = main.baseFilePath + 'categories.json'
-    with open(path, 'r') as f:
-        categories = json.load(f)
+    categories = getCategories()
     
     categdata = []
     subcategdata = []
@@ -124,9 +126,7 @@ def getFoodGroupCount(summary, groupname):
             return group['count']
 
 def toChart4(dataset, summary):
-    path = main.baseFilePath + 'categories.json'
-    with open(path, 'r') as f:
-        categories = json.load(f)
+    categories = getCategories()
     
     foodwaterlist = main.getWaterStats(dataset, 2395, summary)
     print(foodwaterlist)
@@ -162,7 +162,63 @@ def toChart4(dataset, summary):
         drilldown['data'] = drilldowndatalist
         drilldownseries.append(drilldown)
 
-    main.saveJSONObject("chartdata/chart4.json", [series, drilldownseries])
+def chartPerGroup(dataset, summary, idx):
+    # half chart
+    categories = getCategories()
+    subcategories = []
+    categories = []
+    proximates = ['Carbohydrate, by difference', 'Protein', 'Total lipid ', 'Sugars, total']
+    
+    for cat in categories:
+        categories.append(cat['category'])
+        subcategories.append(cat['subcategories'])
+    indices = summary['food_groups'][idx]['food_indices']
+    #for i in indices:
+
+def toChart5(dataset, summary):
+    #count cholesterol, fat rate, per category
+    categlist = ['Fast Foods', 'Beef Products', 'Vegetables and Vegetable Products', 'Restaurant Foods', 'Cereal Grains and Pasta']
+    nutrientlist = ['Fatty acids, total saturated', 'Cholesterol', 'Fiber, total dietary']
+    nutrientrate = [[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]]
+    numdata = [0, 0, 0, 0, 0]
+    for group in summary['food_groups']:
+        if group['name'] in categlist:
+            idx = categlist.index(group['name'])
+            numdata[idx] = group['count']
+            
+    print(numdata)
+    for group in summary['food_groups']:
+        if group['name'] in categlist:
+            i = categlist.index(group['name'])
+            indices = group['food_indices']
+            for k in indices:
+                food = dataset[k]
+                for nutrient in nutrientlist:
+                    sum, j = getNutrientValue(food, nutrient, nutrientlist)
+                    if (j != -1):
+                        nutrientrate[i][j] += sum
+    print(nutrientrate)
+    for i in range(0, len(nutrientrate)):
+        for j in range(0, len(nutrientlist)):
+            nutrientrate[i][j] = nutrientrate[i][j]/numdata[i]
+    series = []
+    for i in range(0, len(nutrientlist)):
+        seri = {}
+        seri['name'] = nutrientlist[i]
+        seri['data'] = []
+        for j in range(0, len(nutrientrate)):
+            seri['data'].append(nutrientrate[j][i])
+        series.append(seri)
+    
+    return [categlist, series]
+
+
+def getNutrientValue(food, nutrientdata, nutrientlist):
+    for nutrient in food['nutrients']:
+        l = len(nutrientdata)
+        if nutrient['nutrient_name'][:l] == nutrientdata:
+            return nutrient['value'], nutrientlist.index(nutrient['nutrient_name'])
+    return 0, -1
 
 if __name__ == '__main__':
     # Read Dataset
@@ -173,6 +229,7 @@ if __name__ == '__main__':
     #series = toChart2(summary, dataset)
     #main.saveJSONObject("chartdata/chart2.json", series)
     #obj = toChart3(summary, dataset)
-    #main.saveJSONObject("chartdata/chart3.json", obj)
+    #obj = toChart5(dataset, summary)
+    #main.saveJSONObject("chartdata/chart5.json", obj)
 
     

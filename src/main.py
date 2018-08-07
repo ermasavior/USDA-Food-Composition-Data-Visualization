@@ -1,4 +1,5 @@
 import json
+import convert_to_chart as conv
 
 baseFilePath = "../data/"
 
@@ -26,13 +27,13 @@ def overallSummary(dataset):
     numrecord = len(dataset)
     print('Number of Dataset: ' + str(numrecord))
     
+    categories = conv.getCategories()
     summary['title'] = "USDA Food Composition"
     summary['count_data'] = numrecord
-    summary['food_groups'] = getFoodGroups(dataset, numrecord)
-    #print(summary['food_groups'])
+    summary['food_groups'] = getFoodGroups(dataset, numrecord, categories)
     return summary
 
-def getFoodGroups(dataset, numrecord):
+def getFoodGroups(dataset, numrecord, categories):
     foodgrouplist = []
     foodgroupnames = []
     for i in range(0, numrecord):
@@ -42,12 +43,17 @@ def getFoodGroups(dataset, numrecord):
             foodgrouplist[idx]['count'] += 1
             foodgrouplist[idx]['food_indices'].append(i)
         else:
+            for cat in categories:
+                if food['food_group'] in cat['subcategories']:
+                    majorgroup = cat['category']
             foodgroup = {}
             foodgroup['name'] = food['food_group']
             foodgroup['count'] = 1
+            foodgroup['major_group'] = majorgroup
             foodgroup['food_indices'] = [i]
             foodgroupnames.append(food['food_group'])
             foodgrouplist.append(foodgroup)
+        
     return foodgrouplist
 
 def getWaterStats(dataset, numrecord, summary):
@@ -83,6 +89,5 @@ if __name__ == '__main__':
     dataset = readJSONDataSet()
     # Overall Summary (DONE)
     #summary = overallSummary(dataset) 
-    #sorteddata = sorted(dataset, key=lambda k: k['nutrients'][1].get('value', 0))
     #saveJSONObject("overallsummary.json", summary)  
     #print(getWaterStats(dataset, 2395, summary))

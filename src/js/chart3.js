@@ -9,7 +9,7 @@ $.getJSON( "data/chartdata/chart3.json", function( data ) {
             type: 'bar'
         },
         title: {
-            text: 'Proximates per Major Food Groups'
+            text: 'Rate of Proximates per Major Food Group'
         },
         xAxis: {
             categories: jscateg

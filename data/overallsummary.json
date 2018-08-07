@@ -5,7 +5,8 @@
         {
             "name": "Fruits and Fruit Juices",
             "count": 183,
-            "food_ind": [
+            "major_group": "Fruits and Vegetables",
+            "food_indices": [
                 0,
                 1,
                 2,
@@ -194,7 +195,8 @@
         {
             "name": "Fast Foods",
             "count": 128,
-            "food_ind": [
+            "major_group": "Snacks, Beverages, and Restaurant Foods",
+            "food_indices": [
                 40,
                 609,
                 610,
@@ -328,7 +330,8 @@
         {
             "name": "Baked Products",
             "count": 248,
-            "food_ind": [
+            "major_group": "Wheat Products",
+            "food_indices": [
                 41,
                 42,
                 43,
@@ -582,7 +585,8 @@
         {
             "name": "Vegetables and Vegetable Products",
             "count": 357,
-            "food_ind": [
+            "major_group": "Fruits and Vegetables",
+            "food_indices": [
                 58,
                 59,
                 60,
@@ -945,7 +949,8 @@
         {
             "name": "Cereal Grains and Pasta",
             "count": 92,
-            "food_ind": [
+            "major_group": "Wheat Products",
+            "food_indices": [
                 61,
                 134,
                 135,
@@ -1043,7 +1048,8 @@
         {
             "name": "American Indian/Alaska Native Foods",
             "count": 58,
-            "food_ind": [
+            "major_group": "Others",
+            "food_indices": [
                 71,
                 253,
                 254,
@@ -1107,7 +1113,8 @@
         {
             "name": "Baby Foods",
             "count": 27,
-            "food_ind": [
+            "major_group": "Others",
+            "food_indices": [
                 84,
                 85,
                 86,
@@ -1140,7 +1147,8 @@
         {
             "name": "Sausages and Luncheon Meats",
             "count": 94,
-            "food_ind": [
+            "major_group": "Meat Products",
+            "food_indices": [
                 99,
                 100,
                 101,
@@ -1240,7 +1248,8 @@
         {
             "name": "Sweets",
             "count": 140,
-            "food_ind": [
+            "major_group": "Snacks, Beverages, and Restaurant Foods",
+            "food_indices": [
                 114,
                 115,
                 116,
@@ -1386,7 +1395,8 @@
         {
             "name": "Meals, Entrees, and Side Dishes",
             "count": 42,
-            "food_ind": [
+            "major_group": "Snacks, Beverages, and Restaurant Foods",
+            "food_indices": [
                 131,
                 627,
                 628,
@@ -1434,7 +1444,8 @@
         {
             "name": "Spices and Herbs",
             "count": 25,
-            "food_ind": [
+            "major_group": "Fruits and Vegetables",
+            "food_indices": [
                 139,
                 1535,
                 2112,
@@ -1465,7 +1476,8 @@
         {
             "name": "Legumes and Legume Products",
             "count": 157,
-            "food_ind": [
+            "major_group": "Fruits and Vegetables",
+            "food_indices": [
                 140,
                 141,
                 142,
@@ -1628,7 +1640,8 @@
         {
             "name": "Beef Products",
             "count": 68,
-            "food_ind": [
+            "major_group": "Meat Products",
+            "food_indices": [
                 255,
                 256,
                 257,
@@ -1702,7 +1715,8 @@
         {
             "name": "Dairy and Egg Products",
             "count": 201,
-            "food_ind": [
+            "major_group": "Poultry Products",
+            "food_indices": [
                 330,
                 331,
                 634,
@@ -1909,7 +1923,8 @@
         {
             "name": "Beverages",
             "count": 188,
-            "food_ind": [
+            "major_group": "Snacks, Beverages, and Restaurant Foods",
+            "food_indices": [
                 332,
                 333,
                 334,
@@ -2103,7 +2118,8 @@
         {
             "name": "Lamb, Veal, and Game Products",
             "count": 40,
-            "food_ind": [
+            "major_group": "Meat Products",
+            "food_indices": [
                 519,
                 520,
                 1363,
@@ -2149,7 +2165,8 @@
         {
             "name": "Fats and Oils",
             "count": 48,
-            "food_ind": [
+            "major_group": "Others",
+            "food_indices": [
                 635,
                 636,
                 638,
@@ -2203,7 +2220,8 @@
         {
             "name": "Restaurant Foods",
             "count": 24,
-            "food_ind": [
+            "major_group": "Snacks, Beverages, and Restaurant Foods",
+            "food_indices": [
                 746,
                 747,
                 748,
@@ -2233,7 +2251,8 @@
         {
             "name": "Breakfast Cereals",
             "count": 20,
-            "food_ind": [
+            "major_group": "Snacks, Beverages, and Restaurant Foods",
+            "food_indices": [
                 784,
                 785,
                 786,
@@ -2259,7 +2278,8 @@
         {
             "name": "Snacks",
             "count": 58,
-            "food_ind": [
+            "major_group": "Snacks, Beverages, and Restaurant Foods",
+            "food_indices": [
                 886,
                 911,
                 1487,
@@ -2323,7 +2343,8 @@
         {
             "name": "Poultry Products",
             "count": 79,
-            "food_ind": [
+            "major_group": "Poultry Products",
+            "food_indices": [
                 925,
                 926,
                 927,
@@ -2408,7 +2429,8 @@
         {
             "name": "Finfish and Shellfish Products",
             "count": 59,
-            "food_ind": [
+            "major_group": "Others",
+            "food_indices": [
                 1090,
                 1091,
                 1092,
@@ -2473,7 +2495,8 @@
         {
             "name": "Soups, Sauces, and Gravies",
             "count": 17,
-            "food_ind": [
+            "major_group": "Others",
+            "food_indices": [
                 1095,
                 1293,
                 1294,
@@ -2496,7 +2519,8 @@
         {
             "name": "Pork Products",
             "count": 28,
-            "food_ind": [
+            "major_group": "Others",
+            "food_indices": [
                 1268,
                 1269,
                 1777,
@@ -2530,7 +2554,8 @@
         {
             "name": "Nut and Seed Products",
             "count": 14,
-            "food_ind": [
+            "major_group": "Fruits and Vegetables",
+            "food_indices": [
                 1570,
                 1571,
                 1572,

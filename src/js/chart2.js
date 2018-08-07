@@ -7,7 +7,7 @@ $.getJSON( "data/chartdata/chart2.json", function( data ) {
             zoomType: 'xy'
         },
         title: {
-            text: 'Map of Energy and Protein per 100 g'
+            text: 'Map of Energy and Protein of 3 Food Groups'
             // warna nunjukin food category
         },
         xAxis: {

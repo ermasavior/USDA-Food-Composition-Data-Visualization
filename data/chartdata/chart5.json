@@ -1,0 +1,41 @@
+[
+    [
+        "Fast Foods",
+        "Beef Products",
+        "Vegetables and Vegetable Products",
+        "Restaurant Foods",
+        "Cereal Grains and Pasta"
+    ],
+    [
+        {
+            "name": "Fatty acids, total saturated",
+            "data": [
+                4.0613984374999985,
+                6.396882352941175,
+                0.13980672268907562,
+                2.567458333333333,
+                0.49631521739130446
+            ]
+        },
+        {
+            "name": "Cholesterol",
+            "data": [
+                38.7109375,
+                73.8529411764706,
+                0.9355742296918768,
+                28.166666666666668,
+                4.923913043478261
+            ]
+        },
+        {
+            "name": "Fiber, total dietary",
+            "data": [
+                1.6398437499999994,
+                0.0,
+                2.3792717086834743,
+                1.604166666666667,
+                5.108695652173913
+            ]
+        }
+    ]
+]
