@@ -1,0 +1,174 @@
+[
+    [
+        {
+            "name": "Major Food Groups",
+            "colorByPoint": true,
+            "data": [
+                {
+                    "name": "Meat Products",
+                    "y": 8.434237995824635,
+                    "drilldown": "Meat Products"
+                },
+                {
+                    "name": "Fruits and Vegetables",
+                    "y": 30.730688935281837,
+                    "drilldown": "Fruits and Vegetables"
+                },
+                {
+                    "name": "Wheat Products",
+                    "y": 14.19624217118998,
+                    "drilldown": "Wheat Products"
+                },
+                {
+                    "name": "Snacks, Beverages, and Restaurant Foods",
+                    "y": 25.052192066805844,
+                    "drilldown": "Snacks, Beverages, and Restaurant Foods"
+                },
+                {
+                    "name": "Poultry Products",
+                    "y": 11.691022964509393,
+                    "drilldown": "Poultry Products"
+                },
+                {
+                    "name": "Others",
+                    "y": 8.726513569937369,
+                    "drilldown": "Others"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name": "Meat Products",
+            "id": "Meat Products",
+            "data": [
+                [
+                    "Sausages and Luncheon Meats",
+                    46.53465346534654
+                ],
+                [
+                    "Beef Products",
+                    33.663366336633665
+                ],
+                [
+                    "Lamb, Veal, and Game Products",
+                    19.801980198019802
+                ]
+            ]
+        },
+        {
+            "name": "Fruits and Vegetables",
+            "id": "Fruits and Vegetables",
+            "data": [
+                [
+                    "Fruits and Fruit Juices",
+                    24.86413043478261
+                ],
+                [
+                    "Vegetables and Vegetable Products",
+                    48.505434782608695
+                ],
+                [
+                    "Spices and Herbs",
+                    3.3967391304347823
+                ],
+                [
+                    "Legumes and Legume Products",
+                    21.331521739130434
+                ],
+                [
+                    "Nut and Seed Products",
+                    1.9021739130434785
+                ]
+            ]
+        },
+        {
+            "name": "Wheat Products",
+            "id": "Wheat Products",
+            "data": [
+                [
+                    "Baked Products",
+                    72.94117647058823
+                ],
+                [
+                    "Cereal Grains and Pasta",
+                    27.058823529411764
+                ]
+            ]
+        },
+        {
+            "name": "Snacks, Beverages, and Restaurant Foods",
+            "id": "Snacks, Beverages, and Restaurant Foods",
+            "data": [
+                [
+                    "Fast Foods",
+                    21.333333333333336
+                ],
+                [
+                    "Sweets",
+                    23.333333333333332
+                ],
+                [
+                    "Meals, Entrees, and Side Dishes",
+                    7.000000000000001
+                ],
+                [
+                    "Beverages",
+                    31.333333333333336
+                ],
+                [
+                    "Restaurant Foods",
+                    4.0
+                ],
+                [
+                    "Breakfast Cereals",
+                    3.3333333333333335
+                ],
+                [
+                    "Snacks",
+                    9.666666666666666
+                ]
+            ]
+        },
+        {
+            "name": "Poultry Products",
+            "id": "Poultry Products",
+            "data": [
+                [
+                    "Dairy and Egg Products",
+                    71.78571428571429
+                ],
+                [
+                    "Poultry Products",
+                    28.214285714285715
+                ]
+            ]
+        },
+        {
+            "name": "Others",
+            "id": "Others",
+            "data": [
+                [
+                    "American Indian/Alaska Native Foods",
+                    27.751196172248804
+                ],
+                [
+                    "Baby Foods",
+                    12.918660287081341
+                ],
+                [
+                    "Fats and Oils",
+                    22.966507177033492
+                ],
+                [
+                    "Finfish and Shellfish Products",
+                    28.22966507177033
+                ],
+                [
+                    "Soups, Sauces, and Gravies",
+                    8.133971291866029
+                ]
+            ]
+        }
+    ]
+]

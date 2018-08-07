@@ -1,0 +1,57 @@
+[
+    {
+        "category": "Meat Products",
+        "subcategories": [
+            "Sausages and Luncheon Meats",
+            "Pork products",
+            "Beef Products",
+            "Lamb, Veal, and Game Products"
+        ]
+    },
+    {
+        "category": "Fruits and Vegetables",
+        "subcategories": [
+            "Fruits and Fruit Juices",
+            "Vegetables and Vegetable Products",
+            "Spices and Herbs",
+            "Legumes and Legume Products",
+            "Nut and Seed Products"    
+        ]
+    },
+    {
+        "category": "Wheat Products",
+        "subcategories": [
+            "Baked Products",
+            "Cereal Grains and Pasta"    
+        ]
+    },
+    {
+        "category": "Snacks, Beverages, and Restaurant Foods",
+        "subcategories": [
+            "Snacks",
+            "Fast Foods",
+            "Sweets",
+            "Beverages",
+            "Meals, Entrees, and Side Dishes",
+            "Breakfast Cereals",
+            "Restaurant Foods"
+        ]
+    },
+    {
+        "category": "Poultry Products",
+        "subcategories": [
+            "Poultry Products",
+            "Dairy and Egg Products"
+        ]
+    },
+    {
+        "category": "Others",
+        "subcategories": [
+            "Baby Foods",
+            "American Indian/Alaska Native Foods",
+            "Fats and Oils",
+            "Soups, Sauces, and Gravies",
+            "Finfish and Shellfish Products"
+        ]
+    }
+]
